@@ -45,8 +45,8 @@
    name: "LoginComponent",
    data() {
      return {
-       username: "",
-       password: "",
+       username: "admin@admin.com",
+       password: "admin",
      };
    },
    methods: {
